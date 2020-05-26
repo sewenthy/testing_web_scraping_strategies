@@ -8,5 +8,5 @@ This project uses the Selenium web scraper to navigate LinkedIn profiles to see 
 The source code can be found in the src folder and it is all in Java.  You can read the detailed report above.
 
 ## Author
-Sewen Thy
-sewenthy@gmail.com
+Sewen Thy  
+<sewenthy@gmail.com>
